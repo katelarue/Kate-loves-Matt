@@ -2,6 +2,7 @@
 <html>
   <head>
   <title>K8 loves M@</title>
+  <link href="/style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
   <h1>HAPPY VALENTINE's DAY, M@</h1>
